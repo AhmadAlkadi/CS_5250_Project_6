@@ -11,7 +11,7 @@ public class Assembler {
         
         Parser obj = new Parser();
         
-        String path = "C:\\Users\\PROXD\\OneDrive\\Documents\\NetBeansProjects\\Project_6\\src\\main\\java\\Assembler\\add.asm";
+        String path = "C:\\Users\\PROXD\\OneDrive\\Documents\\NetBeansProjects\\Project_6\\src\\main\\java\\Assembler\\MaxL.asm";
        
         try
         {

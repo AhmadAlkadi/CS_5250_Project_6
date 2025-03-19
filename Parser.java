@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Assembler;
 
 import java.io.BufferedReader;
@@ -223,7 +219,7 @@ class Parser extends SymbolTable
         
         FileReader in = new FileReader(infile);
         BufferedReader inF  = new BufferedReader(in); 
-        FileWriter out = new FileWriter("C:\\Users\\PROXD\\OneDrive\\Documents\\NetBeansProjects\\Project_6\\src\\main\\java\\Assembler\\add.hack");
+        FileWriter out = new FileWriter("C:\\Users\\PROXD\\OneDrive\\Documents\\NetBeansProjects\\Project_6\\src\\main\\java\\Assembler\\MaxL.hack");
         BufferedWriter outF = new BufferedWriter(out);
        
         String line; 
